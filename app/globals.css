@@ -6,6 +6,7 @@ body {
   margin: 0;
   background: #000;
   color: white;
+  font-family: var(--font-gowun-batang);
 }
 
 a {
@@ -59,6 +60,11 @@ main {
 
 .movie-info {
   padding: 20px;
+}
+
+.movie-poster {
+  text-align: center;
+  padding-top: 20px;
 }
 
 .movie-info h3 {

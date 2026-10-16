@@ -6,6 +6,7 @@ import './globals.css';
 const gowunBatang = Gowun_Batang({
   weight: '400',
   subsets: ['latin'],
+  variable: '--font-gowun-batang',
 });
 
 export const metadata: Metadata = {
